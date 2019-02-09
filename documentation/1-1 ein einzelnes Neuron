@@ -1,0 +1,16 @@
+Neuronale Netze
+1 - 1 ein einzelnes Neuron
+
+- hat mehrere Eingänge und Gewichte
+- hat einen Ausgang
+- hat Algorithmen, um auf Basis der Eingänge und Gewichte den Ausgangswert zu bestimmen:
+zwei oder mehere Eingänge und deren Gewichtungen werden verrechnet (z.B. Eingänge aufsummiert...),
+einer Aktivierungsfunktion übergeben und dessen Ergebnis ausgegeben
+
+vereinfacht:
+- ein Eingang (x)
+- eine Gewichtung (w)
+- keine Aktivierungsfunktion
+- vereinfachte Formel für den Ausgang (y): y = x * w
+
+Dieses einzelne Neuron ist eine lineare Regression: ein Standardmodell für das machine learning, um Vorhersagen treffen zu können.

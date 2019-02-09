@@ -1,0 +1,28 @@
+Neuronale Netze
+1 - 2 lineare Regression
+
+Hilfsmittel:
+- Programm GeoGebra Classic
+
+Prinzip:
+- wir ziehen eine Gerade durch Punkte (gemessene Größen) eines Koordiatensystems
+- die "zusätzlichen" Punkte der Gerade werden als wahrscheinliche zukünftige Messpunkte gewertet
+
+Beispiel:
+Joggen im Park:
+- Zeit (x-Achse)
+- zurückgelegte Strecke (y-Achse)
+- siehe Lineare Regression (1).ggb
+
+Funktion des Modells: f(x) = a * x + b
+Kosten (cost) = Die Summe der Quadrate aller Strecken vom jeweiligen Meßpunkt zur Geraden (= Modell):
+- je kleiner cost, desto näher liegt das Modell im Durchschnitt an den Meßpunkten
+- dazu kann mit a die Steigung (Winkel zwischen x-Achse und Gerade mit Schnittpunkt x=0) und
+- mit b die Verschiebung des Schnittpunktes der Geraden auf der y-Achse eingestellt werden
+
+siehe dazu auch:
+ youtube-Kanal "Urknall, Weltall, Leben"
+ "Von Aristoteles zur Stringtheorie" von Josef M. Gaßner
+ Video: "Galilei • Aristoteles ⯈ Stringtheorie (4) | Josef M. Gaßner"
+ Ausschnitt: Differentialrechnung (Ableitung):
+ https://youtu.be/1WWbUzLugrU?list=PLmDf0YliVUvGGAE-3CbIEoJM3DJHAaRzj&t=806

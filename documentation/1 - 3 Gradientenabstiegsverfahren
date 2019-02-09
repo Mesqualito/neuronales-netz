@@ -1,0 +1,12 @@
+Neuronale Netze
+1 - 3 Gradientenabstiegsverfahren
+
+Hilfsmittel:
+- Programm GeoGebra Classic
+
+eng.: "gradient decent"
+Das Gradientenabstiegsverfahren liefert wichtige Grundlagen, auf die beim Training
+neuronaler Netze geachtet werden muss.
+
+Prinzip:
+Wir suchen Schritt für Schritt das Minimum (s. 'const' aus "1 - 2 Lineare Regression").
